@@ -7,7 +7,7 @@ Je suis **Martinouxx**, un gars qui aime développer des plugins Minecraft en Ja
 - 😎 Fondateur de Ninario.
 - 🚀 J'adore le Java *et le café aussi*
 
-## 🌐 Résaux:
+## 🌐 Réseaux:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YcUFjfHw9F) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8P52eXSo_7WReXygdxUS1Q)](https://youtube.com/@martinouxx)
 
 
